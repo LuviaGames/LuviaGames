@@ -1,6 +1,6 @@
 Welcome to @LuviaGames repository. We are an Indie Game Developer focused on mobile gaming.
 
-Our games so far include:
+We have published the following games:
 
 - Pulse, Test Your Reflexes! (Arcade) [Google Play Link](https://play.google.com/store/apps/details?id=com.pulsegame.pulse)
 - Falling Miner, Arcade Mine Exploration (Arcade) [Google Play Link](https://play.google.com/store/apps/details?id=com.luviagames.fallingminer)
